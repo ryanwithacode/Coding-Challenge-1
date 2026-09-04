@@ -1,16 +1,21 @@
 using UnityEngine;
 
-public class ChallengeScriptB : MonoBehaviour
+public class Square_Input : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Test");
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("ALL THE TIME");
+        
+    }
+
+    void OnMove ()
+    {
+        Debug.Log("Input!");
     }
 }

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 29
-  productGUID: 07dd4ef433e4ee24bb2bc206741af8d4
+  productGUID: f885a4830d4c4894cb21547b281158f2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Coding Challenge 1
+  productName: Classwork9_2_26
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Coding Challenge 1
+  metroPackageName: Classwork9_2_26
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Coding Challenge 1
+  metroApplicationDescription: Classwork9_2_26
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: bca52f11-fc93-4de5-b6e5-a70b5ecc9e96
+  cloudProjectId: 44c214cc-c100-47a6-b75e-e1742a456832
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Coding Challenge 1 2026-08-24_12-19-07
+  projectName: Classwork9_2_26
   organizationId: ryxndzn
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
